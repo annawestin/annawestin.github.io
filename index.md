@@ -85,7 +85,7 @@ I went to South Africa and made a short documentary about White Sangomas, which 
 #### Work
 **Web Development & Research assistant** (Summer internship), [RISE SICS East](https://www.sics.se/), 2018
 
-Internship focused on optimizing the synonym generator on the website [TeCST](https://www.ida.liu.se/projects/scream/webapp/). The website is made for webeditors to write texts that are easier to understand to facilitate for people with reading disabilities. The website uses language technology that tells you how hard the text is to read, and give the writer hints on how to make the text easier. My work this summer consisted of:
+Internship focused on optimizing the synonym generator on the website [TeCST](https://www.ida.liu.se/projects/scream/webapp/). The website is made for web editors to write texts that are easier to understand to facilitate for people with reading disabilities. The website uses language technology that tells you how hard the text is to read, and give the writer hints on how to make the text easier. My work this summer consisted of:
 * Researching on different methods to generate synonyms.
 * Evaluating the method found by creating an online survey.
 * Write a report on the work.
@@ -105,7 +105,7 @@ The part time work focused on continuing to develop on the website earlier menti
 
 **Registrator and Post manager** (Full time), Proffice, 2012
 
-My work for Proffice was during the period when the new law was about to take effect of teachers having to have a teachers licence to teach. My work consisted of:
+My work for Proffice was during the period when the new law was about to take effect of teachers having to have a teacher's license to teach. My work consisted of:
 * Taking care of the registration of teacher licenses from both Swedish and foreign applications.
 * Make sure that the mail comes in and out as it should. 
 * Digitally sort out the applications to different specialization groups
