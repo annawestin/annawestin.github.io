@@ -116,7 +116,7 @@ once they have entered the database after being registered.
 
 **RoboCup German Open**, 2018
 
-Participated in the RoboCup@Home League with the team LiU@HomeWreckers. The robot used was the Softbank robot Pepper. My responsibility was the Natural Language Processing of the robot. **[**[News article](https://www.nyteknik.se/ingenjorskarriar/vm-vilken-ar-den-basta-hemroboten-6909132)**]**
+Participated in the RoboCup@Home League with the team LiU@HomeWreckers. The robot used was the Softbank robot Pepper that through automation had to solve tasks in a staged up home. My responsibility was the Natural Language Processing of the robot. **[**[News article](https://www.nyteknik.se/ingenjorskarriar/vm-vilken-ar-den-basta-hemroboten-6909132)**]**
 
 **SMART Door/Digital receptionist**, 2017
 
@@ -157,9 +157,15 @@ Python, Javascript, HTML, CSS, PHP, MySQL, LaTeX, XML
 
 **Libraries**
 
-CKEditor, ROS, OpenCV
+CKEditor, ROS, OpenCV, JQuery
+
+**Cloud services**
+
+Azure, Google Cloud, AWS
 
 **Version Control**
 
 Git
+
+
 
