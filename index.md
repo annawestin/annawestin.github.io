@@ -100,7 +100,9 @@ Internship focused on continuing to develop on the website TeCST.  My work for t
 **Web Development & Research assistant** (Part time), [RISE SICS East](https://www.sics.se/), 2017&ndash;2018
 
 The part time work focused on continuing to develop on the website earlier mentioned (TeCST). My work consisted of:
+* Finding bugs on the website.
 * Creating a new synonym lexicon.
+* Make the language technology information of the texts more user friendly for the writers (UX design).
 * Make the language technology information of the texts more user friendly for the writers (UX design).
 
 **Registrator and Post manager** (Full time), Proffice, 2012
