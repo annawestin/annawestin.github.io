@@ -103,7 +103,6 @@ The part time work focused on continuing to develop on the website earlier menti
 * Finding bugs on the website.
 * Creating a new synonym lexicon.
 * Make the language technology information of the texts more user friendly for the writers (UX design).
-* Make the language technology information of the texts more user friendly for the writers (UX design).
 
 **Registrator and Post manager** (Full time), Proffice, 2012
 
