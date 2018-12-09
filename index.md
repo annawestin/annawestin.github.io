@@ -52,6 +52,7 @@ title: Resume
 
 
 
+
 ### Hello,
 
 I'm 27 years old and currently live in Stockholm, Sweden. I have a bachelors degree in Cognitive science, which is a multidisciplinary science. This includes subject ranging from UX design, programming and language technology to human factors and behavioral psychology. However, I learned most of my programming from working on side-projects with robots and from my work with the company RISE SICS East.
@@ -129,6 +130,11 @@ Built a prototype of a SMART door that recognized people, socialized with them, 
 
 Participated in the swedish TV show *Talang* (the Swedish equivalent of America's Got Talent) along with a team of students from University of Linköping. The robots used was Sofbank's Nao Next Gen. We qualified for the semi-finals during our audition.
 **[**[Video](https://www.youtube.com/watch?v=NhZ9dEqTDQQ)**]**
+
+**East Sweden Hack**, 2017
+
+Participated in the full weekend Hackathon in Linköping. The goal was for each team to create a new product by using open source API. Me and my team built a Rasberry prototype of a pill box that was connected to a website and an app, and that through the API 46ELKS sent text messages to the user and the user's family in case she/he forgot to take their medicine. My work in this project consisted of creating the app through Android Studio.
+
 
 #### Publications
 
