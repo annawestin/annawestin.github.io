@@ -1,86 +1,63 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-lang: en-US
-title: Anna Westin
-email:
-description:
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author:
-  name: Anna Westin
-  twitter:
-  picture: https://api.adorable.io/avatars/285/johndoe.png
-twitter_username:
-github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
-search_full_content: false # true, false (default)
-search_provider: # lunr (default), algolia
-algolia:
-  application_id: # YOUR_APPLICATION_ID
-  index_name: # YOUR_INDEX_NAME
-  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: # true (default), false
+title: "Anna's resume"
+description: "My resume"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
-plugins: # previsously gems
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-feed:
-  path: atom.xml
+sass:
+  sass_dir: _sass
+  style: compressed
 
-# Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: /page:num/
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Anna Westin"
+resume_title:                   "Senior Automation Engineer"
 
-# Exclude from processing.
-exclude:
-  - .asset-cache
-  - .bundle
-  - .codeclimate.yml
-  - .editorconfig
-  - .gitattributes
-  - .jekyll-assets-cache
-  - .sass-cache
-  - .scss-lint.yml
-  - CHANGELOG
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - node_modules
-  - Rakefile
-  - README
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - /docs # ignore Basically Basic sample site
-  - /example # ignore Basically Basic dev site
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "anna.westin42@gmail.com"
 
-# Front Matter Defaults
-defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      read_time: true
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "xxx-xxx"
+resume_contact_address:         "Edinburgh"
+
+resume_header_contact_info:     "Edinburgh • xxx-xxx • "
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>An automation engineer originated from Sweden, and live in Edinburgh since end of 2020 working remote.<br><br>The best days I’ve had working in all my jobs has been when I’ve been set to work in a team, and we’re like gears in a clock working simultaneously together. I thrive working with other people and playing a part in keeping the team together. I also like work that includes troubleshooting, problem solving and coming up with innovative ideas for solutions.<br><br>I spent most of my free time studying, as I’m quite curious about a lot of things. My other passions in life are freediving and gaming.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+resume_section_links:           false
+resume_section_associations:    true
+resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/annawestin?tab=repositories"
+#  resume_twitter_url:           "http://twitter.com/jglovier"
+# resume_dribbble_url:          "https://dribbble.com/jag"
+# resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/anna-westin-593626173"
+  resume_instagram_url:         "https://www.instagram.com/jekyllompa"
+#  resume_website_url:           "http://joelglovier.com"
+#  resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

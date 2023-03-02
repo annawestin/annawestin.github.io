@@ -1,0 +1,22 @@
+# Skills
+# Environments
+- skill: Environments
+  description: Linux, Windows
+
+# Languages
+- skill: Languages
+  description: C#, Python, VB, Javascript, HTML, CSS, SQL
+  
+# Version Control
+- skill: Version Control
+  description: Git, SVN, DevOps
+  
+# Cloud services
+- skill: Cloud services
+  description: Azure, Google Cloud, AWS
+  
+# Tools
+- skill: Automation Tools
+  description: Automation Anywhere, UiPath, Boost.ai, Druid
+  
+

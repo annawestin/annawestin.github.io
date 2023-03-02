@@ -1,0 +1,40 @@
+# Associations
+
+
+## Academic Merits
+- organization: Law and Artificial Intelligence
+  role: University of Linköping
+  year: 2022
+  summary: Studied the laws in Europe around AI
+  
+- organization: AI For Natural Language
+  role: University of Linköping
+  year: 2022
+  summary: Built neural networks to process written text
+  
+- organization: Data Protection Law
+  role: Lund University
+  year: 2021
+  summary: Studied the GDPR laws
+  
+- organization: Data communication in networks
+  role: Mälardalen University
+  year: 2020
+  summary: Network CS fundamentals and setting up distributed network systems
+  
+- organization: Industrial robotics and RobotStudio®*
+  role: University of Skövde
+  year: 2019
+  summary: Developed ABB robots in simulations
+  
+    # Diploma
+- organization: Japanese
+  role: Yoshida Institute
+  year: 2013 &mdash; 2014
+  summary: Studiued two years of japanese in Tokyo, and I have forgotten it all. Time well spent.
+  
+- organization: Media and Communication
+  role: Röda Korsets Folkhögskola
+  year: 2010&ndash;2011
+  summary: I went to South Africa and made a short documentary about White Sangomas, which was shown in the cinema for one day in Stockholm.
+
