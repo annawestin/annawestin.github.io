@@ -4,12 +4,12 @@
   Website: https://roboyo.global
   position: Senior Automation Engineer
   duration: Okt, 2021 &mdash; Present
-  summary: I currently work as a tech lead and developer at the company Roboyo.  <ul class="resume-item-list"><li>Design and develop scalable automations in Autiomation Anywhere and UiPath as base</li>
-<li>Design and create RPA Framework</li><li>Create Macros in Excel</li><li>Build custom coded library modules in python, VB and javascripts<li>Build windows services in C# in .Net framework</li><li>Compile librares into NuGet</li></li><li>Set up HA Infrastucture for automations</li></li><li>Conversation AI Advisor</li><li>Lead of the custom code sub practice</li></li><li>Using LLM for text automation</li><li>Build NN classifiers from Tensorflow library</li><li>Setting up service management for new tools</li>
+  summary: I currently work as a tech lead and developer at the company Roboyo.  <ul class="resume-item-list"><li>Design and develop scalable automations in Autiomation Anywhere and UiPath as base</li><li>Design and create RPA Framework</li><li>Create Macros in Excel</li><li>Build custom coded library modules in python, VB and javascripts<li>Build windows services in C# in .Net framework</li><li>Compile librares into NuGet</li></li><li>Set up HA Infrastucture</li></li><li>Conversation AI Advisor</li><li>Lead of the custom code sub practice</li></li><li>Using LLM for text automation</li><li>Build NN classifiers from Tensorflow library</li><li>Setting up service management for new tools</li>
 
 # Jobs
 # Senior Automation Engineer
 - company: AKOA (previosly named New Innovation Management)
+  Website: https://akoa.com
   position: Senior Automation Engineer
   duration: Mar, 2019 &mdash; Okt, 2021
   summary: I worked as a RPA developer for AKOA for a couple of years with various responsibilities that are listed above, as the company got bought by Roboyo.
