@@ -4,7 +4,7 @@
 - project: RoboCup German Open
   role: NLP Developer
   duration: 2018
-  description: Participated in the RoboCup@Home League with the team LiU@HomeWreckers. The robot used was the Softbank robot Pepper that through automation had to solve tasks in a staged up home. My responsibility was the Natural Language Processing of the robot. 
+  description: Participated in the RoboCup@Home League with the team LiU@HomeWreckers. The Softbank robot Pepper was the robot that, through automation, had to solve tasks in a staged home. My responsibility was the Natural Language Processing of the robot. Design and develop scalable automation in Automation Anywhere and UiPath as base.
 
 
 # SMART Door/Digital receptionist
@@ -12,7 +12,7 @@
   role: Developer
   duration: 2017
   Article: "http://www.nt.se/nyheter/norrkoping/de-byggde-en-smart-entr-om5255501.aspx"
-  description: Built a prototype of a SMART door that recognized people, socialized with them, and could book a meeting into Google calender by voice control. I programmed the doors face recognition, chatbot, natural language processing, and Text-to-Speech
+  description: Built a prototype of a SMART door that recognized people, socialized with them, and could book a meeting into Google Calendar by voice control. I programmed the door's face recognition, chatbot, natural language processing, and Text-to-Speech.
   
   
 # Sweden Got Talent
@@ -20,12 +20,12 @@
   role: Developer
   duration: 2017
   URL: "https://www.youtube.com/watch?v=NhZ9dEqTDQQ"
-  description: Participated in the TV show Sweden got Talent along with a team of students from University of Linköping. The robots used was Sofbank's Nao Next Gen. We qualified for the semi-finals during our audition.
+  description: Participated in the TV show Sweden Got Talent along with a team of students from the University of Linköping. The robot used was the Softbank’s Nao Next Gen. We qualified directly to the semi-finals during our audition.
   
 
 # East Sweden Hack
 - project: East Sweden Hack
   role: Developer
   duration: 2017
-  URL: "https://www.youtube.com/watch?v=NhZ9dEqTDQQ"
-  description: Participated in the full weekend Hackathon in Linköping. The goal was for each team to create a new product by using open source API. Me and my team built a Rasberry prototype of a pill box that was connected to a website and an app, and that through the API 46ELKS sent text messages to the user and the user's family in case she/he forgot to take their medicine. My work in this project consisted of creating the app through Android Studio.
+  URL: ""
+  description: Participated in the full weekend Hackathon in Linköping. The goal was for each team to create a new product by using open-source API. My team built a Raspberry prototype of a pill box connected to a website and an app, and through the API 46ELKS, it sent text messages to the user and the user's family in case she/he forgot to take their medicine. My work in this project consisted of creating the app through Android Studio.

@@ -4,15 +4,16 @@
   Website: https://roboyo.global
   position: Senior Automation Engineer
   duration: Okt, 2021 &mdash; Present
-  summary: I currently work as a tech lead and developer at the company Roboyo.  <ul class="resume-item-list"><li>Design and develop scalable automations in Autiomation Anywhere and UiPath as base</li><li>Design and create RPA Framework</li><li>Create Macros in Excel</li><li>Build custom coded library modules in python, VB and javascripts<li>Build windows services in C# in .Net framework</li><li>Compile librares into NuGet</li></li><li>Set up HA Infrastucture</li></li><li>Conversation AI Advisor</li><li>Lead of the custom code sub practice</li></li><li>Using LLM for text automation</li><li>Build NN classifiers from Tensorflow library</li><li>Setting up service management for new tools</li>
+  summary: At my current job, I work on client projects with roles ranging from developer to tech lead. My internal responsibility in the company includes lead advisor for conversational AI in the Nordics, and Device handler of the UK area. <ul class="resume-item-list"><li>Design and develop scalable UI, text, and system automation. </li><li>Design and create Frameworks.</li><li>Build custom-coded library modules in C#, Python, VB and JavaScript.<li>Build Windows services in C# based in .Net frameworks.</li><li>Set up HA Infrastructure and instalments.</li><li>Conversation AI developer and advisor.</li><li>Setting up service management for new technologies</li>
 
 # Jobs
 # Senior Automation Engineer
-- company: AKOA (previosly named New Innovation Management)
+- company: AKOA
   Website: https://akoa.com
   position: Senior Automation Engineer
   duration: Mar, 2019 &mdash; Okt, 2021
-  summary: I worked as a RPA developer for AKOA for a couple of years with various responsibilities that are listed above, as the company got bought by Roboyo.
+  summary: As an Automation Engineer at AKOA, I worked with two of our biggest clients to help them in their automation journey. I created solutions in various sectors involving HR, finance, and logistics. My internal responsibility within the company included being the Custom Code Sub Practice lead, which was responsible for setting up maintenance, documentation, and frameworks for code-based automation.
+  <ul class="resume-item-list"><li>Design and develop scalable Ui and text automation.</li><li>Design and create Frameworks.</li><li>Build custom-coded library modules in C#, Python, VB and JavaScript</li><li>Set up HA Infrastructure for automation.</li><li>Build NN classifiers from TensorFlow library</li>
   
 
 
@@ -21,4 +22,4 @@
   URL: https://www.sics.se/
   position: Front End Developer & Research assistant
   duration:   2017  &mdash; 2018
-  summary: Focused on implementing the front end of a website and optimizing their synonym generator [TeCST](https://www.ida.liu.se/projects/scream/webapp/). The website is made for web editors to write texts that are easier to understand to facilitate for people with reading disabilities. The website uses NLP that tells you how hard the text is to read, and give the writer hints on how to make the text easier. My work consisted off <ul class="resume-item-list"><li>Front end development</li><li>Researching on different methods to generate synonyms.</li><li>Evaluating the method found by creating an online survey.</li><li>Write a report on the research.</li><li>Implementing a Text-to-Speech function on the website.</li><li>UX design.</li>
+  summary: aFocused on implementing the front end of a website and optimizing their synonym generator [TeCST](https://www.ida.liu.se/projects/scream/webapp/). The website is made for web editors to write texts that are easier to understand to facilitate for people with reading disabilities. The website uses NLP which tells you how hard the text is to read and gives the writer hints on how to make the text easier. My work consisted off:<ul class="resume-item-list"><li>•	Front-end development</li><li>•	Researching different methods to generate synonyms.</li><li>Evaluating the method found by creating an online survey.</li><li>Write a research report.</li><li>UX design.</li>
