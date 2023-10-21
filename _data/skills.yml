@@ -15,8 +15,12 @@
 - skill: Cloud services
   description: Azure, Google Cloud, AWS
   
-# Tools
-- skill: Automation Low code Tools
-  description: Automation Anywhere, UiPath, Boost.ai, Druid
+# Automation Tools
+- skill: Automation Tools
+  description: Automation Anywhere, UiPath
+
+  # Conversational AI Tools
+- skill: Conversational AI Tools
+  description: Boost.ai, Druid
   
 
