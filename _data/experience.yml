@@ -4,20 +4,21 @@
   Website: https://roboyo.global
   position: Senior Automation Engineer
   duration: Oct, 2021 &mdash; Dec 2023
-  summary: I worked on long-term client projects developing and leading their automation journey. My internal responsibility in the company includes lead advisor for conversational AI in the Nordics, and Device handler of the UK area. <ul class="resume-item-list"><li>Design and develop scalable UI, text, and system automation. </li><li>Design and create Frameworks.</li><li>Build custom-coded library modules in C#, Python, VB and JavaScript.<li>Build Windows services in C# based in .Net frameworks.</li><li>Automation integration using PowerShell</li><li>Set up HA Infrastructure and instalments.</li><li>Conversation AI developer and advisor.</li><li>Setting up service management for new technologies</li>
+  summary: I worked on client projects in sectors such as HR, Insurance and IT, developing and leading their automation journey. My internal responsibility in the company includes lead advisor for conversational AI in the Nordics, and Device handler of the UK area.<ul class="resume-item-list"><li>Process discovery.</li><li>Design and develop scalable UI, text, and system automation. </li><li>Design and create Frameworks.</li><li>Build custom-coded library modules<li>Automation integration using PowerShell.</li><li>Application and tools API integration</li><li>Database configuration in systems and machines</li><li>Set up HA Infrastructure and instalments.</li><li>Conversation AI developer and advisor.</li><li>Setting up service management for new technologies</li>
+
 
 
 # Automation Engineer
 - company: AKOA
   Website: https://akoa.com
-  position: Senior Automation Engineer
+  position: Automation Engineer
   duration: Mar, 2019 &mdash; Oct, 2021
-  summary: I started at AKOA when it was a startup. As an Automation Engineer there, I worked with two of our biggest clients to help them in their automation journey. I created solutions in various sectors involving HR, finance, and logistics. My internal responsibility within the company included being the Custom Code Sub Practice lead, which was responsible for setting up maintenance, documentation, and frameworks for code-based automation.<ul class="resume-item-list"><li>Design and develop scalable Ui and text automation.</li><li>Design and create Frameworks.</li><li>Build custom-coded library modules in C#, Python, VB and JavaScript</li><li>Set up HA Infrastructure for automation.</li><li>Build NN classifiers from TensorFlow library</li>
-  
+  summary: I started at AKOA when it was a startup. As an Automation Engineer there, I worked with two of our biggest clients to help them in their automation journey. I created solutions in various sectors involving HR, finance, and logistics. My internal responsibility within the company included being the Custom Code Sub Practice lead, which was responsible for setting up maintenance, documentation, and frameworks for code-based automation.<ul class="resume-item-list"><li>Design and develop scalable Ui and text automation.</li><li>Design and create Frameworks.</li><li>Build custom-coded library modules</li><li>Set up HA Infrastructure for automation.</li><li>Build NN classifiers from TensorFlow library</li><li>Conversational Assistant and RPA integration with chat apps</li><li>Custom Code Sub-practice lead responsible for projects involving CI/CD pipeline</li>
 
-# Front End Developer & Research assistant
+
+# Web Developer & Research assistant
 - company: RISE SICS East
   URL: https://www.sics.se/
-  position: Front End Developer & Research assistant
+  position: Web Developer & Research assistant
   duration:   Jun 2017  &mdash; May 2018
-  summary: Focused on implementing the front end of a website and optimizing their synonym generator [TeCST](https://www.ida.liu.se/projects/scream/webapp/). The website is made for web editors to write texts that are easier to understand to facilitate for people with reading disabilities. The website uses NLP which tells you how hard the text is to read and gives the writer hints on how to make the text easier. My work consisted off:<ul class="resume-item-list"><li>•	Front-end development</li><li>•	Researching different methods to generate synonyms.</li><li>Evaluating the method found by creating an online survey.</li><li>Write a research report.</li><li>UX design.</li>
+  summary: Focused on implementing the front end of a website and optimizing their synonym generator [TeCST](https://www.ida.liu.se/projects/scream/webapp/). The website is made for web editors to write texts that are easier to understand to facilitate for people with reading disabilities. The website uses NLP which tells you how hard the text is to read and gives the writer hints on how to make the text easier. My work consisted off:<ul class="resume-item-list"><li>Web development using libraries as JQuery and React</li><li>Researching methods for automatic generation of synonyms.</li><li>Evaluating the method found by creating an online survey.</li><li>Write a research report.</li><li>UX design.</li>
