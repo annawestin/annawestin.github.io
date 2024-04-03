@@ -4,8 +4,8 @@
   Website: https://roboyo.global
   position: Intelligent Automation Engineer
   duration: Oct, 2021 &mdash; Dec 2023
-  summary: Focused on implementing hyper-automation in departments such as HR, Insurance and IT, developing and leading their automation journey. My internal responsibility in the company includes lead advisor for conversational AI in the Nordics, and the Device handler of the UK area, responsible for troubleshooting and ordering laptops.<ul class="resume-item-list"><li>Process discovery.</li><li>Design and develop scalable UI, text, and system automation. </li><li>Design and create Frameworks.</li><li>Build custom-coded library modules</li><li>Installing and configuring database, API and system integrations.</li><li>Set up HA Infrastructure and instalments.</li><li>Conversation AI developer and advisor.</li><li>Setting up service management for new technologies</li>
-
+  summary: Focused on implementing hyper-automation in departments such as HR, Insurance and IT, developing and leading their automation journey. My internal responsibility in the company includes lead advisor for conversational AI in the Nordics, and the Device handler of the UK area, responsible for troubleshooting and ordering laptops.<ul class="resume-item-list"><li>Design and develop scalable process automations.</li><li>Build conversation AI in tools such as boost.ai, Druid and Dialogflow, and demos in open source 
+frameworks such as Rasa and Chatscript</li><li>Data wrangling with regular expressions</li><li>Apply NLP and LLM solutions to Text automations using various Python libraries</li><li>Build library modules in Python, C#, Powershell and JavaScript. </li><li>Mentoring junior developers and setting up sprints</li><li>Set up HA Infrastructure and instalments.</li><li>Setting up service management for new technologies</li>
 
 # Senior Automation Engineer
 - company: AKOA
